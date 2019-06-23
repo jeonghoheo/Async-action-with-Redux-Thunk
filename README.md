@@ -5,3 +5,5 @@
 - [x] Initial App Setup
 - [x] Tricking Redux with Dummy Reducers
 - [x] Wiring Up an Action Creator
+- [x] Making a Request From an Action Creator
+- [x] Shortened Syntax with Redux Thunk
