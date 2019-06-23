@@ -1,7 +1,18 @@
-import React from "react";
+import React, { Component } from "react";
+import { connect } from "react-redux";
+import { fetchPosts } from "../actions";
 
-const PostList = () => {
-  return <div>PostList</div>;
-};
+class PostList extends Component {
+  componentDidMount() {
+    const { fetchPosts } = this.props;
+    fetchPosts();
+  }
+  render() {
+    return <div>PostList</div>;
+  }
+}
 
-export default PostList;
+export default connect(
+  null,
+  { fetchPosts }
+)(PostList);

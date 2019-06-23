@@ -4,3 +4,4 @@
 
 - [x] Initial App Setup
 - [x] Tricking Redux with Dummy Reducers
+- [x] Wiring Up an Action Creator
