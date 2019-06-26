@@ -10,3 +10,4 @@
 - [x] Rules of Reducers
 - [x] Switch Statements in Reducers
 - [x] Dispatching Correct Values
+- [x] List Builidng!
