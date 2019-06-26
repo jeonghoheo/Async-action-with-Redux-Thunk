@@ -12,3 +12,4 @@
 - [x] Dispatching Correct Values
 - [x] List Builidng!
 - [x] Fetching User
+- [x] Displaying the User Header
