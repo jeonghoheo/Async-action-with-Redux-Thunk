@@ -11,3 +11,4 @@
 - [x] Switch Statements in Reducers
 - [x] Dispatching Correct Values
 - [x] List Builidng!
+- [x] Fetching User
