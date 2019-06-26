@@ -8,3 +8,4 @@
 - [x] Making a Request From an Action Creator
 - [x] Shortened Syntax with Redux Thunk
 - [x] Rules of Reducers
+- [x] Switch Statements in Reducers
